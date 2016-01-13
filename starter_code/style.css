@@ -5,6 +5,13 @@
     margin-right: auto;
     margin-top: 0;
     margin-bottom: 0;
+    color:white;
+
+}
+#rock {
+    background-image:url('http://www.pd4pic.com/images/fantasy-fist-giant-monster-mushroom-rock-rpg.png');
+    
+    
 }
 .token { 
     width: 32%; 
@@ -14,7 +21,26 @@
     text-align: center;
     padding: 50px 0px 50px 0px;
     font-size: x-large;
+    color:white;
 }
 #message {
     text-align: center;
+    color: white;
+}
+
+#aiPoint {
+    color:white;
+}
+#userPoint {
+    color:white;
+    
+}
+
+div{
+    color:white;
+}
+body {
+    background-image: url('http://offclouds.com/data_images/wallpapers/34/371662-rock-paper-scissors.jpg');
+
+    
 }
